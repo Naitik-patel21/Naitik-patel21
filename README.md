@@ -1,16 +1,21 @@
-## Hi there 👋
+ Hi, I'm Naitik Patel 👋
 
-<!--
-**Naitik-patel21/Naitik-patel21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA (Full Stack) student at Rungta University, Bhilai.
+I build websites and I enjoy UI/UX design.
 
-Here are some ideas to get you started:
+## 🔭 What I'm doing now
+- Learning full stack web development
+- Building my personal portfolio website
+- Open to internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+**Languages:** Python, HTML, CSS, JavaScript
+**Design:** UI/UX
+**Tools:** Git, GitHub, VS Code, Vercel
+
+## 🏆 Experience
+- Smart India Hackathon (SIH) — team member
+
+## 📫 Contact
+- LinkedIn: linkedin.com/in/naitikpatel2102
+- Email: 21naitik.patel@gmail.com
